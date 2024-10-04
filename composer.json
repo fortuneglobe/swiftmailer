@@ -12,10 +12,14 @@
         {
             "name": "Fabien Potencier",
             "email": "fabien@symfony.com"
+        },
+        {
+            "name": "Fortune Solutions",
+            "email": "solutions@fortuneglobe.eu"
         }
     ],
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=8.3",
         "egulias/email-validator": "^2.0|^3.1",
         "symfony/polyfill-iconv": "^1.0",
         "symfony/polyfill-mbstring": "^1.0",
